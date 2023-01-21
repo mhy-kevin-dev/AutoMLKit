@@ -37,4 +37,5 @@ Outputs:
 ![](screenshots/upload.png)
 ![](screenshots/profilling.png)
 ![](screenshots/training.png)
+![](screenshots/regression.png)
 ![](screenshots/predict.png)
