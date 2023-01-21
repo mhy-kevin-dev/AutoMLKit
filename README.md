@@ -19,6 +19,11 @@ This app was written in python using `streamlit` and `pycaret` to perform machin
 streamlit run app.py
 ```
 
+1. Import your training data via WEB UI.
+2. Choose whether to use regression or classification for training. (will do cross-validation automatically)
+3. With a single click, the system will compare the results of multiple machine learning methods.
+4. Finally, import your test data for prediction.
+
 ## Example Data
 
 [Kaggle Playground Series Season 3, Episode 3: Tabular Classification with an Employee Attrition Dataset](https://www.kaggle.com/competitions/playground-series-s3e3/overview)
