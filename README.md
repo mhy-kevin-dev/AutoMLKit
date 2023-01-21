@@ -1,4 +1,4 @@
-# AutoMLKit App
+# AutoMLKit
 
 This app was written in python using `streamlit` and `pycaret` to perform machine learning tasks in an elegant manner.
 
@@ -21,7 +21,7 @@ streamlit run app.py
 
 1. Import your training data (.csv) via WEB UI.
 2. Choose whether to use regression or classification for training. (will do cross-validation automatically)
-3. With a single click, This system will simultaneously test multiple machine learning methods and sort them according to their performances.
+3. With a single click, This app will simultaneously test multiple machine learning methods and sort them according to their performances.
 4. Finally, import your test data for prediction.
 
 ## Example Data
