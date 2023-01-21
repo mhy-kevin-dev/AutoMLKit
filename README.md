@@ -30,7 +30,7 @@ streamlit run app.py
 
 Files:
 
-    - train.csv (remember to rename to dataset.csv)
+    - train.csv 
 
     - test.csv
 
