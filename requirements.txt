@@ -1,0 +1,14 @@
+pycaret==2.3.10
+Flask==2.2.2
+gunicorn==20.1.0
+numpy
+pandas
+pandas-profiling
+scikit-learn
+scikit-plot
+scipy
+sklearn
+streamlit==1.17.0
+streamlit-pandas-profiling==0.1.3
+tornado==6.2
+urllib3==1.26.12
