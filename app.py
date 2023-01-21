@@ -12,7 +12,7 @@ if os.path.exists('./dataset.csv'):
 
 with st.sidebar: 
     st.image("https://www.onepointltd.com/wp-content/uploads/2019/12/shutterstock_1166533285-Converted-03.png")
-    st.title("MyAutoMLKit")
+    st.title("AutoMLKit")
     choice = st.radio("Navigation", ["Upload","Profiling","ML", "Download", "Predict"])
     st.info("This app can help you explore your data.")
 
