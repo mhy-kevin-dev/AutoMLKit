@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pandas_profiling
-
 from pycaret.regression import setup, compare_models, pull, save_model, load_model, predict_model
-
 from streamlit_pandas_profiling import st_profile_report
 import os 
 
